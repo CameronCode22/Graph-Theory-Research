@@ -1,2 +1,2 @@
 # Graph-Theory-Research
-How to build maze with different algorithms
+These files were used a sthe baseline for creating the maze. Using graph theory algorithms. And combining with tkinters canvas library.
